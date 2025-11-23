@@ -1,12 +1,3 @@
-
-
-```
-![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel)
-![React](https://img.shields.io/badge/React-18.0-blue?logo=react)
-![TypeScript](https://img.shields.io/badge/TS-TypeScript-blue?logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-Build-646CFF?logo=vite)
-```
-
 # **# ObjecTech**
 
 ObjecTech is an efficient anomaly detection web management system designed to help users upload images, identify anomalies in real time, view historical records, and manage personal image resources.It improves safety and productivity by detecting potential issues early.
