@@ -1,4 +1,4 @@
-# **# ObjecTech**
+# **ObjecTech**
 
 ObjecTech is an efficient anomaly detection web management system designed to help users upload images, identify anomalies in real time, view historical records, and manage personal image resources.It improves safety and productivity by detecting potential issues early.
 
@@ -32,7 +32,7 @@ ObjecTech is an efficient anomaly detection web management system designed to he
 
 
 
-# **## App Access Instructions**
+# **App Access Instructions**
 
 
 
@@ -152,7 +152,7 @@ Please note that all test data is temporary and will not be stored or retained, 
 
 
 
-# **## 🛠 Local Development Guide**
+# **🛠 Local Development Guide**
 
 
 
@@ -235,7 +235,7 @@ VITE v5.x.x ready in xxx ms
 
 
 
-# **## ✔ Done**
+# **✔ Done**
 
 If you need assistance, feel free to contact us.
 
