@@ -27,9 +27,7 @@ ObjecTech is an efficient anomaly detection web management system designed to he
 
 > 替换成你仓库中的图片路径（例如 ./assets/poster.png）
 
-```
-./Picture/Poster.png
-```
+![Poster](./Picture/Poster.png)
 
 ------
 
@@ -118,9 +116,8 @@ Password: 123456 (or any)
 - View anomaly heatmap
 - Save results to **Statistics**
 
-```
-./Picture/Picture2.png
-```
+![Picture](./Picture/Picture2.png)
+
 
 ------
 
@@ -132,9 +129,7 @@ Password: 123456 (or any)
 - Explore category-based statistics
 - Visualize usage metrics
 
-```
-./Picture/Picture3.png
-```
+![Picture](./Picture/Picture3.png)
 
 ------
 
