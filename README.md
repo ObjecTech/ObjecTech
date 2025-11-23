@@ -6,9 +6,8 @@ ObjecTech is an efficient anomaly detection web management system designed to he
 
 
 
-## **🚀** 
 
-## **Live Demo / Landing Page**
+## **🚀 Live Demo / Landing Page**
 
 
 
