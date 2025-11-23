@@ -25,7 +25,6 @@ ObjecTech is an efficient anomaly detection web management system designed to he
 
 ## **🖼 Poster**
 
-> 替换成你仓库中的图片路径（例如 ./assets/poster.png）
 
 ![Poster](./Picture/Poster.png)
 
@@ -87,16 +86,10 @@ Steps:
 
 ## **3. Test Account**
 
+Our registration system is designed for easy testing and does not require verification. You can register and log in using any username and password combination. For your convenience, we've also set up a test account (test@example.com) that you can use immediately.
 
+Please note that all test data is temporary and will not be stored or retained, so there are no privacy or confidentiality concerns. However, this also means that data analysis features will be unavailable during the testing phase, as they require persistent data storage to function.
 
-You may sign up using any email and password.
-
-Alternatively, use the test account:
-
-```
-Email: test@example.com
-Password: 123456 (or any)
-```
 
 > Test data is temporary and will not be stored.
 
